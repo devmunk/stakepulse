@@ -256,10 +256,16 @@ NEXT_PUBLIC_NETWORK=testnet
 
 ```bash
 cd frontend
+# Using npm
 npm install
 npm run dev
 ```
-
+#### Using Yarn (recommended if npm fails)
+```bash
+cd frontend
+yarn install
+yarn dev
+```
 Open [http://localhost:3000](http://localhost:3000)
 
 ---
