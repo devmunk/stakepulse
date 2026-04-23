@@ -94,6 +94,11 @@ fn test_reward_calculation_correct() {
     client.stake(&user, &pred_id, &0u32, &300_000_000i128, &token);
     client.stake(&user2, &pred_id, &0u32, &100_000_000i128, &token);
 
+    // Advance time so prediction expires
+    env.ledger().with_mut(|l| {
+        l.timestamp += 7200;
+    });
+
     // Resolve with option 0 winning
     client.resolve_prediction(&admin, &pred_id, &0u32);
 
