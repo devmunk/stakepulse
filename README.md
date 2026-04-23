@@ -10,7 +10,9 @@
 
 ## 🎥 Demo Video
 
-▶️ [Click to watch demo](demo/demo_video.mp4)
+Click below to watch the full demo:
+
+[![Watch Demo](screenshots/demo-thumbnail.png)](demo/demo_video.mp4)
 
 ---
 
