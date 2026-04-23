@@ -31,7 +31,13 @@
 ### 🎉 Claim Rewards
 ![Claim](screenshots/claim.png)
 
+---
 
+## 🧪 Test Results
+
+All contract tests passing successfully:
+
+![Test Output](screenshots/test.png)
 
 ---
 
