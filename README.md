@@ -2,10 +2,36 @@
 
 > **Predict. Stake. Win.** — A decentralized prediction market dApp built on Stellar Soroban.
 
-<!-- DEMO LINKS (fill in after deployment) -->
-🌐 **Live Demo:** _[https://your-demo-link.vercel.app](https://your-demo-link.vercel.app)_
-📸 **Screenshot:** _[Add screenshot here]_
-🎥 **Demo Video:** _[Add Loom/YouTube link here]_
+## 🌐 Live Demo
+
+🔗 https://stakepulse-gamma.vercel.app/
+
+---
+
+## 🎥 Demo Video
+
+▶️ [Click to watch demo](demo/demo_video.mp4)
+
+---
+
+## 📸 Screenshots
+
+### 👛 Multi-wallet Support
+![Multi-wallet](screenshots/multiwallet.png)
+
+### 🏠 Homepage / Markets
+![Homepage](screenshots/homepage.png)
+
+### 💰 Stake on Prediction
+![Stake](screenshots/stake.png)
+
+### 🏆 Leaderboard
+![Leaderboard](screenshots/leaderboard.png)
+
+### 🎉 Claim Rewards
+![Claim](screenshots/claim.png)
+
+
 
 ---
 
