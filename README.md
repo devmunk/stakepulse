@@ -43,9 +43,11 @@ Click below to watch the full demo:
 **Explorer Link:**  
 https://stellar.expert/explorer/testnet/contract/CA3GXCWOKPDOYLTGE5ABPDI6FCSEGFK7S4BJG3NUPHVIH5WH6GVTVKT3
 
-### 📸 Contract on Explorer
+## 🔗 Smart Contract (Deployed on Stellar Testnet)
 
 ![Contract Explorer](screenshots/contract.png)
+
+---
 
 ## 🧪 Test Results
 
