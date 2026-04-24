@@ -35,15 +35,15 @@ Click below to watch the full demo:
 
 ---
 
-## 🔗 Smart Contract Details
+## 🔗 Smart Contract (Deployed on Stellar Testnet)
 
-**Contract ID (Testnet):**  
+**Contract ID:**  
 `CA3GXCWOKPDOYLTGE5ABPDI6FCSEGFK7S4BJG3NUPHVIH5WH6GVTVKT3`
 
-**Explorer Link:**  
-https://stellar.expert/explorer/testnet/contract/CA3GXCWOKPDOYLTGE5ABPDI6FCSEGFK7S4BJG3NUPHVIH5WH6GVTVKT3
+**Explorer:**  
+🔍 https://stellar.expert/explorer/testnet/contract/CA3GXCWOKPDOYLTGE5ABPDI6FCSEGFK7S4BJG3NUPHVIH5WH6GVTVKT3
 
-## 🔗 Smart Contract (Deployed on Stellar Testnet)
+### 📸 On-chain Verification
 
 ![Contract Explorer](screenshots/contract.png)
 
