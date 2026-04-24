@@ -35,6 +35,18 @@ Click below to watch the full demo:
 
 ---
 
+## 🔗 Smart Contract Details
+
+**Contract ID (Testnet):**  
+`CA3GXCWOKPDOYLTGE5ABPDI6FCSEGFK7S4BJG3NUPHVIH5WH6GVTVKT3`
+
+**Explorer Link:**  
+https://stellar.expert/explorer/testnet/contract/CA3GXCWOKPDOYLTGE5ABPDI6FCSEGFK7S4BJG3NUPHVIH5WH6GVTVKT3
+
+### 📸 Contract on Explorer
+
+![Contract Explorer](screenshots/contract.png)
+
 ## 🧪 Test Results
 
 All contract tests passing successfully:
